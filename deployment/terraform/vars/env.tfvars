@@ -1,0 +1,11 @@
+staging_project_id = "tough-entry-462814-h3"
+prod_project_id = "steel-bridge-472903-g1"
+cicd_runner_project_id = "steel-bridge-472903-g1"
+region = "us-central1"
+repository_name = "qliu3-asp-demo"
+repository_owner = "qlshun"
+host_connection_name = "git-qliu3-asp-demo"
+create_cb_connection = true
+create_repository = true
+github_app_installation_id = "86840084"
+github_pat_secret_id = "git-qliu3-asp-demo-github-oauthtoken-40e63e"
